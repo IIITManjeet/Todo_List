@@ -57,7 +57,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 <div>
 <h1>Snapshots<h1>
   <br>
-  <div><img src="Images/Screenshot(128).jpeg"></div>
+  <div><img src="https://github.com/IIITManjeet/Todo_List/blob/main/Images/Screenshot%20(128).jpeg"></div>
  <div><img src="Images/Screenshot(129).jpeg"></div>
 </div>
 
