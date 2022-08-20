@@ -57,8 +57,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 <div>
 <h1>Snapshots<h1>
   <br>
-  <div><img src="https://github.com/IIITManjeet/Todo_List/blob/main/Images/Screenshot%20(128).jpeg"></div>
- <div><img src="https://github.com/IIITManjeet/Todo_List/blob/main/Images/Screenshot%20(129).jpeg"></div>
+  <div><h3>React_APP_SS</h3><br><img src="https://github.com/IIITManjeet/Todo_List/blob/main/Images/Screenshot%20(128).jpeg"></div>
+ <div><h3>Firebase_SS</h3><br><img src="https://github.com/IIITManjeet/Todo_List/blob/main/Images/Screenshot%20(129).jpeg"></div>
 </div>
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
