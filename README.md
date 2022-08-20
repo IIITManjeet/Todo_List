@@ -56,6 +56,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Making a Progressive Web App
 <div>
 <h1>Snapshots<h1>
+  <br>
+  <img src="Screenshot(128).png">
+  <img src="Screenshot(129).png">
 <div>
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
