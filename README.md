@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+This Project is made to link the data added to get saved into Firebase Cloud Service into React.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
